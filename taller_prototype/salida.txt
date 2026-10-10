@@ -1,0 +1,19 @@
+Prototipos originales
+Personaje{nombre='Guerrero', clase='Guerrero', inventario=[Pocion de vida]}
+Personaje{nombre='Mago', clase='Mago', inventario=[Baston magico]}
+
+Copias recien clonadas
+Personaje{nombre='Guerrero-Copia', clase='Guerrero', inventario=[Pocion de vida]}
+Personaje{nombre='Mago-Copia', clase='Mago', inventario=[Baston magico]}
+
+Despues de modificar los inventarios de las copias
+Personaje{nombre='Guerrero-Copia', clase='Guerrero', inventario=[Pocion de vida, Escudo]}
+Personaje{nombre='Mago-Copia', clase='Mago', inventario=[Baston magico, Libro de hechizos]}
+
+Prototipos originales (sin cambios)
+Personaje{nombre='Guerrero', clase='Guerrero', inventario=[Pocion de vida]}
+Personaje{nombre='Mago', clase='Mago', inventario=[Baston magico]}
+
+Prueba con prototipo inexistente
+No existe el prototipo 'Arquero'. No se puede clonar.
+Resultado: null
